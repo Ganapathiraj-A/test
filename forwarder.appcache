@@ -1,0 +1,12 @@
+CACHE MANIFEST
+     
+# This is a comment
+
+CACHE:
+https://i.ibb.co/4VxVbNW/Sadhguru.jpg
+
+FALLBACK:
+/ /offline.html
+
+NETWORK:
+*
